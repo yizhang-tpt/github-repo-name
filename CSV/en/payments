@@ -1,0 +1,584 @@
+IN+1, Incoming - Cheque
+IN+2, Incoming - Direct Debit A
+IN+3, Incoming - Bank Transfer
+IN+5, Incoming - Lockbox *2
+IN+7, Incoming - Letter Of Credit
+IN+9, Incoming - Bank Giro
+IN+B, Incoming - SEPA DD - B2B
+IN+C, Outgoing cheque in-House Print
+IN+E, Cash Payment
+IN+F, FINEDI all currencies
+IN+I, Incoming - SEPA DD - CORE
+IN+J, Direct Credit for DD Customers
+IN+K, Outgoing Direct Debit
+IN+L, Rush Wires Outgoing Payment (R
+IN+M, Outgoing Payment Manual
+IN+N, Outgoing Manual Payment CIBC
+IN+O, Controlled Vendor Payments
+IN+Q, Outgoing cheqs printed at bank
+IN+T, Outgoing Foreign Bank Transfer
+IN+U, Outgoing Urgent Payment
+IN+X, Outgoing Domestic Bank Transfe
+IN+Z, Payment in USD
+AE+0, Incoming - Direct Debit B
+AE+1, Incoming - Cheque
+AE+2, Incoming - Direct Debit A
+AE+3, Incoming - Bank Transfer
+AE+7, Incoming - Letter Of Credit
+AE+9, Incoming - Bank Giro
+AE+B, Incoming - SEPA DD - B2B
+AE+E, Outgoing SEPA Payment
+AE+I, Incoming - SEPA DD - CORE
+AE+J, Direct Credit for DD Customers
+AE+L, Rush Wires Outgoing Payment (R
+AE+O, Controlled Vendor Payments
+AE+Q, Outgoing cheqs printed at bank
+AE+S, SAME BANK CLEARANCE
+AE+T, Outgoing Foreign Bank Transfer
+AE+X, Outgoing Domestic Bank Transfe
+AE+Z, Payment in USD
+EG+1, Incoming - Cheque
+EG+2, Incoming - Direct Debit A
+EG+3, Incoming - Bank Transfer
+EG+J, Direct Credit for DD Customers
+EG+K, Outgoing Direct Debit
+EG+L, Rush Wires Outgoing Payment (R
+EG+M, Outgoing Manual Payment
+EG+O, Controlled Vendor Payments
+EG+Q, Outgoing cheqs printed at bank
+EG+S, SAME BANK CLEARANCE
+EG+T, Outgoing Foreign Bank Transfer
+EG+X, Outgoing Domestic Bank Transfe
+EG+Z, Payment in USD
+GB+0, Incoming - Direct Debit B
+GB+1, Incoming - Cheque
+GB+2, Incoming - Direct Debit A
+GB+3, Incoming - Bank Transfer
+GB+4, Incoming - Cash
+GB+5, Incoming - Lockbox *2
+GB+6, Incoming - Credit Card  *1
+GB+7, Incoming - Letter Of Credit
+GB+8, Incoming - Bill Of Exchange
+GB+9, Incoming - Bank Giro
+GB+B, Incoming - SEPA DD - B2B
+GB+C, Outgoing cheque in-House Print
+GB+E, Outgoing SEPA Bank Transfer
+GB+H, In House Cash
+GB+J, Direct Credit for DD Customers
+GB+K, Outgoing Direct Debit
+GB+L, Rush Wires Outgoing Payment (R
+GB+O, Controlled Vendor Payments
+GB+Q, Outgoing cheqs printed at bank
+GB+S, SAME BANK CLEARANCE
+GB+T, Outgoing Foreign Bank Transfer
+GB+U, Outgoing Urgent Payment
+GB+V, International - Clearing
+GB+X, Outgoing Domestic Bank Transfe
+GB+Z, Payment in USD
+BG+0, Incoming - Direct Debit B
+BG+1, Incoming - Cheque
+BG+2, Incoming - Direct Debit A
+BG+3, Incoming - Bank Transfer
+BG+4, Incoming - Cash
+BG+5, Incoming - Lockbox *2
+BG+6, Incoming - Credit Card  *1
+BG+7, Incoming - Letter Of Credit
+BG+8, Incoming - Bill Of Exchange
+BG+9, Incoming - Bank Giro
+BG+C, Outgoing cheque in-House Print
+BG+D, EFT/ACH Credit CCD+
+BG+F, FBGEDI all currencies
+BG+J, Direct Credit for DD Customers
+BG+K, Outgoing Direct Debit
+BG+L, Rush Wires Outgoing Payment (R
+BG+M, Outgoing Payment Manual
+BG+N, Outgoing Manual Payment CIBC
+BG+O, Controlled Vendor Payments
+BG+Q, Outgoing cheqs printed at bank
+BG+R, Rush cheques
+BG+T, Outgoing Foreign Bank Transfer
+BG+W, Incoming - Spl. Funds Transfer
+BG+X, Outgoing Domestic Bank Transfe
+BG+Z, Payment in USD
+CZ+0, Incoming - Direct Debit B
+CZ+1, Incoming - Cheque
+CZ+2, Incoming - Direct Debit A
+CZ+3, Incoming - Bank Transfer
+CZ+4, Incoming - Cash
+CZ+5, Incoming - Lockbox *2
+CZ+6, Incoming - Credit Card  *1
+CZ+7, Incoming - Letter Of Credit
+CZ+8, Incoming - Bill Of Exchange
+CZ+9, Incoming - Bank Giro
+CZ+C, Outgoing cheque in-House Print
+CZ+D, EFT/ACH Credit CCD+
+CZ+F, FCZEDI all currencies
+CZ+J, Direct Credit for DD Customers
+CZ+K, Outgoing Direct Debit
+CZ+L, Rush Wires Outgoing Payment (R
+CZ+M, Outgoing Payment Manual
+CZ+N, Outgoing Manual Payment CIBC
+CZ+O, Controlled Vendor Payments
+CZ+Q, Outgoing cheqs printed at bank
+CZ+R, Rush cheques
+CZ+T, Outgoing Foreign Bank Transfer
+CZ+W, Incoming - Spl. Funds Transfer
+CZ+X, Outgoing Domestic Bank Transfe
+CZ+Z, Payment in USD
+DE+0, Incoming - Direct Debit B
+DE+1, Incoming - Cheque
+DE+2, Incoming - Direct Debit A
+DE+3, Incoming - Bank Transfer
+DE+4, Incoming - Cash
+DE+5, Incoming - Lockbox *2
+DE+7, Incoming - Letter Of Credit
+DE+8, Incoming - Bill Of Exchange
+DE+9, Incoming - Bank Giro
+DE+B, Incoming - SEPA DD - B2B
+DE+C, Outgoing cheque in-House Print
+DE+H, In House Cash
+DE+I, Incoming - SEPA DD - CORE
+DE+J, Direct Credit for DD Customers
+DE+K, Outgoing Direct Debit
+DE+L, Rush Wires Outgoing Payment (R
+DE+O, Controlled Vendor Payments
+DE+Q, Outgoing cheqs printed at bank
+DE+T, Outgoing Foreign Bank Transfer
+DE+U, Outgoing Urgent Payment
+DE+X, Outgoing Domestic Bank Transfe
+DE+Z, Payment in USD
+US+0, Incoming - Direct Debit B
+US+1, Incoming - Cheque
+US+2, Incoming - Direct Debit A
+US+3, Incoming - Bank Transfer
+US+4, Incoming - Cash
+US+5, Incoming - Lockbox *2
+US+6, Incoming - Credit Card  *1
+US+7, Incoming - Letter Of Credit
+US+8, Incoming - Bill Of Exchange
+US+9, Incoming - Bank Giro
+US+B, Incoming - SEPA DD - B2B
+US+C, Outgoing cheque in-House Print
+US+J, Direct Credit for DD Customers
+US+K, Outgoing Direct Debit
+US+O, Controlled Vendor Payments
+US+P, ACH Credit PPD
+US+Q, Outgoing cheqs printed at bank
+US+T, Outgoing Foreign Bank Transfer
+US+U, Outgoing Urgent Payment
+US+X, Outgoing Domestic Bank Transfe
+US+Z, Payment in USD
+SA+0, Incoming - Direct Debit B
+SA+1, Incoming - Cheque
+SA+2, Incoming - Direct Debit A
+SA+3, Incoming - Bank Transfer
+SA+4, Incoming - Cash
+SA+9, Incoming - Bank Giro
+SA+B, Incoming - SEPA DD - B2B
+SA+I, Incoming - SEPA DD - CORE
+SA+Z, Payment in USD
+SG+0, Incoming - Direct Debit B
+SG+1, Incoming - Cheque
+SG+2, Incoming - Direct Debit A
+SG+3, Incoming - Bank Transfer
+SG+4, Incoming - Cash
+SG+5, Incoming - Lockbox *2
+SG+6, Incoming - Credit Card  *1
+SG+7, Incoming - Letter Of Credit
+SG+8, Incoming - Bill Of Exchange
+SG+9, Incoming - Bank Giro
+SG+B, Incoming - SEPA DD - B2B
+SG+E, Outgoing SEPA Bank Transfer
+SG+I, Incoming - SEPA DD - CORE
+SG+J, Direct Credit for DD Customers
+SG+K, Outgoing Direct Debit
+SG+L, Rush Wires Outgoing Payment (R
+SG+M, Outgoing Payment Manual
+SG+O, Controlled Vendor Payments
+SG+Q, Outgoing cheqs printed at bank
+SG+S, Special Handlng Foreign Paymnt
+SG+T, Outgoing Foreign Bank Transfer
+SG+U, Outgoing Urgent Payment
+SG+V, International - Clearing
+SG+X, Outgoing Domestic Bank Transfe
+SG+Z, Payment in SGD
+BE+0, Incoming - Direct Debit B
+BE+1, Chèque
+BE+2, Domiciliation
+BE+3, Incoming - Bank Transfer
+BE+4, Cash
+BE+5, Lockbox
+BE+6, Incoming - Credit Card  *1
+BE+7, Incoming - Letter Of Credit
+BE+8, Incoming - Bill Of Exchange
+BE+9, Incoming - Bank Giro
+BE+B, Domiciliation (B2B)
+BE+D, Customer collection - Domicil.
+BE+E, Outgoing SEPA BankTransfer
+BE+F, Foreign banktransfers
+BE+I, Incoming - Bank Giro
+BE+J, Direct Credit for DD Customers
+BE+K, Outgoing Direct Debit
+BE+O, Controlled Vendor Payments
+BE+T, Outgoing Foreign Bank Transfer
+BE+U, Outgoing Urgent Payment
+BE+X, Outgoing Domestic BankTransfer
+BE+Z, Payment in USD
+PH+0, Incoming - Direct Debit B
+PH+1, Incoming - Cheque
+PH+2, Incoming - Direct Debit A
+PH+3, Incoming - Bank Transfer
+PH+4, Incoming - Cash
+PH+5, Incoming - Lockbox *2
+PH+6, Incoming - Credit Card  *1
+PH+7, Incoming - Letter Of Credit
+PH+8, Incoming - Bill Of Exchange
+PH+9, Incoming - Bank Giro
+PH+B, Incoming - SEPA DD - B2B
+PH+C, Outgoing cheque in-House Print
+PH+I, Incoming - SEPA DD - CORE
+PH+J, Direct Credit for DD Customers
+PH+K, Outgoing Direct Debit
+PH+L, Rush Wires Outgoing Payment (R
+PH+O, Controlled Vendor Payments
+PH+Q, Outgoing cheqs printed at bank
+PH+S, Special Handlng Foreign Paymnt
+PH+T, Outgoing Foreign Bank Transfer
+PH+U, Outgoing Urgent Payment
+PH+W, Incoming - Spl. Funds Transfer
+PH+X, Outgoing Domestic Bank Transfe
+PH+Z, Payment in USD
+ES+0, Incoming - Direct Debit B
+ES+1, Incoming - Cheque
+ES+2, Incoming - Direct Debit A
+ES+3, Incoming - Bank Transfer
+ES+8, Incoming - Bill Of Exchange
+ES+9, Incoming - Bank Giro
+ES+B, Incoming - SEPA DD - B2B
+ES+C, Outgoing cheque in-House Print
+ES+D, ACH Credit CCD+
+ES+E, Outgoing SEPA Bank Transfer
+ES+H, In House Cash
+ES+I, Incoming - SEPA DD - CORE
+ES+J, Direct Credit for DD Customers
+ES+K, Outgoing Direct Debit
+ES+L, Rush Wires Outgoing Payment (R
+ES+M, Outgoing Payment Manual
+ES+N, Manual Tax Payments- Via SCB
+ES+O, Controlled Vendor Payments
+ES+Q, Outgoing cheqs printed at bank
+ES+P, ACH Credit PPD
+ES+T, Outgoing Foreign Bank Transfer
+ES+U, Outgoing Urgent Payment
+ES+X, Outgoing Domestic Bank Transfe
+ES+Z, Payment in ESD
+LU+1, Incoming - Cheque
+LU+2, Incoming - Direct Debit A
+LU+3, Incoming - Bank Transfer
+LU+4, Incoming - Cash
+LU+5, Incoming - Lockbox *2
+LU+6, Incoming - Credit Card  *1
+LU+7, Incoming - Letter Of Credit
+LU+8, Incoming - Bill Of Exchange
+LU+9, Incoming - Bank Giro
+LU+B, Incoming - SEPA DD - B2B
+LU+C, Outgoing cheque in-House Print
+LU+D, direct debiting
+LU+E, Outgoing SEPA Bank Transfer
+LU+I, Incoming - SEPA DD - CORE
+LU+J, Direct Credit for DD Customers
+LU+K, Outgoing Direct Debit
+LU+O, Controlled Vendor Payments
+LU+Q, Outgoing cheqs printed at bank
+LU+T, Outgoing Foreign Bank Transfer
+LU+U, Outgoing Urgent Payment
+LU+X, Outgoing Domestic Bank Transfe
+LU+Z, Payment in USD
+CA+0, Incoming - Direct Debit B
+CA+1, Incoming - Cheque
+CA+2, Incoming - Direct Debit A
+CA+3, Incoming - Bank Transfer
+CA+4, Incoming - Cash
+CA+5, Incoming - Lockbox *2
+CA+6, Incoming - Credit Card  *1
+CA+7, Incoming - Letter Of Credit
+CA+8, Incoming - Bill Of Exchange
+CA+9, Incoming - Bank Giro
+CA+C, Outgoing cheque in-House Print
+CA+D, EFT/ACH Credit CCD+
+CA+F, FINEDI all currencies
+CA+J, Direct Credit for DD Customers
+CA+K, Outgoing Direct Debit
+CA+L, Rush Wires Outgoing Payment (R
+CA+M, Outgoing Payment Manual
+CA+N, Outgoing Manual Payment CIBC
+CA+O, Controlled Vendor Payments
+CA+Q, Outgoing cheqs printed at bank
+CA+R, Rush cheques
+CA+T, Outgoing Foreign Bank Transfer
+CA+W, Incoming - Spl. Funds Transfer
+CA+X, Outgoing Domestic Bank Transfe
+CA+Z, Payment in USD
+FR+0, Incoming - Direct Debit B
+FR+1, Incoming - Cheque
+FR+2, Incoming - Direct Debit A
+FR+3, Incoming - Bank Transfer
+FR+4, Incoming - Cash
+FR+5, Incoming - Lockbox *2
+FR+6, Incoming - Credit Card  *1
+FR+7, Incoming - Letter Of Credit
+FR+8, Incoming - Bill Of Exchange
+FR+9, Incoming - Bank Giro
+FR+B, Incoming - SEPA DD - B2B
+FR+C, Outgoing cheque in-House Print
+FR+E, Outgoing SEPA Bank Transfer
+FR+I, Incoming - SEPA DD - CORE
+FR+J, Direct Credit for DD Customers
+FR+K, Outgoing Direct Debit
+FR+L, Rush Wires Outgoing Payment (R
+FR+M, Outgoing Payment Manual
+FR+O, Controlled Vendor Payments
+FR+Q, Outgoing cheqs printed at bank
+FR+T, Outgoing Foreign Bank Transfer
+FR+U, Outgoing Urgent Payment
+FR+V,International - Clearing
+FR+X, Outgoing Domestic Bank Transfe
+FR+Z, Payment in FRD
+ID+1, Incoming - Cheque
+ID+2, Incoming - Direct Debit A
+ID+3, Incoming - Bank Transfer
+ID+4, Incoming - Cash
+ID+5, Incoming - Lockbox *2
+ID+6, Incoming - Credit Card  *1
+ID+7, Incoming - Letter Of Credit
+ID+8, Incoming - Bill Of Exchange
+ID+9, Incoming - Bank Giro
+ID+B, Incoming - SEPA DD - B2B
+ID+C, Outgoing cheque in-House Print
+ID+E, Outgoing SEPA Bank Transfer
+ID+I, Incoming - SEPA DD - CORE
+ID+J, Direct Credit for DD Customers
+ID+K, Outgoing Direct Debit
+ID+L, Rush Wires Outgoing Payment (R
+ID+O, Controlled Vendor Payments
+ID+Q, Outgoing cheqs printed at bank
+ID+S, SAME BANK CLEARANCE
+ID+T, Outgoing Foreign Bank Transfer
+ID+U, Outgoing Urgent Payment
+ID+X, Outgoing Domestic Bank Transfe
+ID+Z, Payment in IDD
+IT+0, Incoming - Direct Debit B
+IT+1, Incoming - Cheque
+IT+2, Incoming - Direct Debit A
+IT+3, Incoming - Bank Transfer
+IT+4, Incoming - Cash
+IT+5, Incoming - Lockbox *2
+IT+6, Incoming - Credit Card  *1
+IT+7, Incoming - Letter Of Credit
+IT+8, Incoming - Bill Of Exchange
+IT+9, Incoming - Bank Giro
+IT+B, Incoming - SEPA DD - B2B
+IT+E, Outgoing SEPA Bank Transfer
+IT+G, Giro
+IT+I, Incoming - SEPA DD - CORE
+IT+J, Direct Credit for DD Customers
+IT+K, Outgoing Direct Debit
+IT+L, Rush Wires Outgoing Payment (R
+IT+M, Outgoing Payment Manual
+IT+N, Outgoing Manual Payment CIBC
+IT+O, Controlled Vendor Payments
+IT+T, Outgoing Foreign Bank Transfer
+IT+U, Outgoing Urgent Payment
+IT+W, IT Outgng Domest Bnk Transfer
+IT+X, Outgoing Domestic Bank Transfe
+IT+Z, Payment in ITD
+MY+0, Incoming - Direct Debit B
+MY+1, Incoming - Cheque
+MY+2, Incoming - Direct Debit A
+MY+3, Incoming - Bank Transfer
+MY+4, Incoming - Cash
+MY+5, Incoming - Lockbox *2
+MY+6, Incoming - Credit Card  *1
+MY+7, Incoming - Letter Of Credit
+MY+8, Incoming - Bill Of Exchange
+MY+9, Incoming - Bank Giro
+MY+B, Incoming - SEPA DD - B2B
+MY+C, Outgoing cheque in-House Print
+MY+I, Incoming - SEPA DD - CORE
+MY+J, Direct Credit for DD Customers
+MY+K, Outgoing Direct Debit
+MY+L, Rush Wires Outgoing Payment (R
+MY+M, Outgoing Payment Manual
+MY+N, Outgoing Manual Payment CIBC
+MY+O, Controlled Vendor Payments
+MY+Q, Outgoing cheqs printed at bank
+MY+S, Special Handlng Foreign Paymnt
+MY+T, Outgoing Foreign Bank Transfer
+MY+U, Outgoing Urgent Payment
+MY+W, Incoming - Spl. Funds Transfer
+MY+X, Outgoing Domestic Bank Transfe
+NL+0, Incoming - Direct Debit B
+NL+1, Incoming - Cheque
+NL+2, Incoming - Direct Debit A
+NL+3, Incoming - Bank Transfer
+NL+4, Incoming - Cash
+NL+5, Incoming - Lockbox *2
+NL+6, Incoming - Credit Card  *1
+NL+7, Incoming - Letter Of Credit
+NL+8, Incoming - Bill Of Exchange
+NL+9, Incoming - Bank Giro
+NL+A, Check
+NL+B, Incoming - SEPA DD - B2B
+NL+E, Outgoing SEPA Bank Transfer
+NL+I, Incoming - SEPA DD - CORE
+NL+J, Direct Credit for DD Customers
+NL+K, Outgoing Direct Debit
+NL+L, Rush Wires Outgoing Payment (R
+NL+M, Outgoing Payment Manual
+NL+O, Controlled Vendor Payments
+NL+P, Manual Payments
+NL+Q, Outgoing cheqs printed at bank
+NL+S, Special Handlng Foreign Paymnt
+NL+T, Outgoing Foreign Bank Transfer
+NL+U, Outgoing Urgent Payment
+NL+V, International - Clearing
+NL+W, Incoming - Spl. Funds Transfer
+NL+X, Outgoing Domestic Bank Transfe
+NL+Z, PAYMENT IN USD 
+PL+2, Incoming - Direct Debit A
+PL+3, Incoming - Bank Transfer
+PL+B, Incoming - SEPA DD - B2B
+PL+E, Outgoing SEPA Bank Transfer
+PL+I, Incoming - SEPA DD - CORE
+PL+J, Direct Credit for DD Customers
+PL+K, Outgoing Direct Debit
+PL+L, Rush Wires Outgoing Payment (R
+PL+M, Outgoing Payment Manual
+PL+O, Controlled Vendor Payments
+PL+P, ACH Credit PPD
+PL+T, Outgoing Foreign Bank Transfer
+PL+X, Outgoing Domestic Bank Transfe
+PL+Z, Payment in PLD
+RU+0, Incoming - Direct Debit B
+RU+1, Incoming - Cheque
+RU+2, Incoming - Direct Debit A
+RU+3, Incoming - Bank Transfer
+RU+4, Incoming - Cash
+RU+7, Incoming - Letter Of Credit
+RU+8, Incoming - Bill Of Exchange
+RU+9, Incoming - Bank Giro
+TH+A, ASR-Verfahren
+RU+B, Incoming - SEPA DD - B2B
+RU+I, Incoming - SEPA DD - CORE
+RU+J, Direct Credit for DD Customers
+RU+K, Outgoing Direct Debit
+RU+L, Rush Wires Outgoing Payment (R
+RU+M, Outgoing Payment Manual
+RU+O, Controlled Vendor Payments
+RU+T, Outgoing Foreign Bank Transfer
+RU+X, Outgoing Domestic Bank Transfe
+RU+Z, Payment in USD
+TH+0, Incoming - DirDeb PostFinance
+TH+1, Incoming - Cheque
+TH+2, Incoming - Direct Debit
+TH+3, Incoming - Bank Transfer
+TH+4, Incoming - Cash
+TH+5, Incoming - Lockbox
+TH+6, Incoming - Credit Card *1
+TH+7, Incoming - Letter Of Credit
+TH+8, Incoming - Bill Of Exchange
+TH+9, Incoming - GIRO
+TH+B, Incoming - SEPA DD - B2B
+TH+C, Check for A/C Payee Only
+TH+E, DTA ESR-Verfahren (Bank)
+TH+F, Debit direct Postfinance (DD)
+TH+G, GIRO Payments
+TH+H, EZAG ESR-Verfahren (Postfin.)
+TH+I, Incoming - Direct Debit CORE
+TH+J, Direct Credit for DD Customers
+TH+L, New GIRO Payments-QR-IBAN
+TH+O, Controlled Vendor Payments
+TH+Q, Outgoing cheqs printed at bank
+TH+R, Chemical Payment
+TH+S, Same bank -SCB Book Transfer
+TH+T, Outgoing Foreign Bank Transfer
+TH+U, Outgoing Urgent Payment
+TH+X, OutgoingDomestic Bank Transfer
+TH+Z, Payment in USD
+TR+0, Incoming - Direct Debit B
+TR+1, Incoming - Cheque
+TR+2, Incoming - Direct Debit A
+TR+3, Incoming - Bank Transfer
+TR+4, Incoming - Cash
+TR+5, Incoming - Lockbox *2
+TR+7, Incoming - Letter Of Credit
+TR+8, Incoming - Bill Of Exchange
+TR+9, Incoming - Bank Giro
+TR+B, Incoming - SEPA DD - B2B
+TR+C, Outgoing cheque in-House Print
+TR+H, In House Cash
+TR+I, Incoming - SEPA DD - CORE
+TR+J, Direct Credit for DD Customers
+TR+K, Outgoing Direct Debit
+TR+L, Rush Wires Outgoing Payment (R
+TR+O, Controlled Vendor Payments
+TR+Q, Outgoing cheqs printed at bank
+TR+T, Outgoing Foreign Bank Transfer
+TR+U, Outgoing Urgent Payment
+TR+X, Outgoing Domestic Bank Transfe
+TR+Z, Payment in USD
+PK+0, Incoming - Direct Debit B
+PK+1, Incoming - Cheque
+PK+2, Incoming - Direct Debit A
+PK+3, Incoming - Bank Transfer
+PK+4, Incoming - Cash
+PK+5, Incoming - Lockbox *2
+PK+6, Incoming - Credit Card  *1
+PK+7, Incoming - Letter Of Credit
+PK+8, Incoming - Bill Of Exchange
+PK+9, Incoming - Bank Giro
+PK+B, Incoming - SEPA DD - B2B
+PK+C, Outgoing cheque in-House Print
+PK+F, FPKEDI all currencies
+PK+I, Incoming - SEPA DD - CORE
+PK+J, Direct Credit for DD Customers
+PK+L, Rush Wires Outgoing Payment (R
+PK+M, Outgoing Payment Manual
+PK+N, Outgoing Manual Payment CIBC
+PK+O, Controlled Vendor Payments
+PK+P, ACH Credit PPD
+PK+Q, Outgoing cheqs printed at bank
+PK+S, Same bank -SCB Book Transfer
+PK+T, Outgoing Foreign Bank Transfer
+PK+U, Outgoing Urgent Payment
+PK+X, Outgoing Domestic Bank Transfe
+CH+0, Incoming - DirDeb PostFinance
+CH+1, Incoming - Cheque
+CH+2, Incoming - Direct Debit
+CH+3, Incoming - Bank Transfer
+CH+4, Incoming - Cash
+CH+5, Incoming - Lockbox
+CH+6, Incoming - Credit Card *1
+CH+7, Incoming - Letter Of Credit
+CH+8, Incoming - Bill Of Exchange
+CH+9, Incoming - GIRO
+CH+A, Check
+CH+B, Incoming - SEPA DD - B2B
+CH+D, Debit direct Postfinance (BAD)
+CH+E, DTA ESR-Verfahren (Bank)
+CH+F, Debit direct Postfinance (DD)
+CH+G, GIRO Payments
+CH+H, EZAG ESR-Verfahren (Postfin.)
+CH+I, Incoming - Direct Debit CORE
+CH+J, Direct Credit for DD Customers
+CH+K, Outgoing Direct Debit
+CH+L, New GIRO Payments-QR-IBAN
+CH+M, DTA Bank an PC-Konto
+CH+O, Controlled Vendor Payments
+CH+P, Manual Payments
+CH+S, Same bank -SCB Book Transfer
+CH+T, Outgoing Foreign Bank Transfer
+CH+U, Outgoing Urgent Payment
+CH+V, Verrechnung (im Konzern)
+CH+X, OutgoingDomestic Bank Transfer
+CH+Z, Payment in USD
