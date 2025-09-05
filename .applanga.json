@@ -12,7 +12,8 @@
             "en": 1
           },
           "excludeHeaderRow": true,
-          "language": "en"
+          "language": "en",
+          "key_prefix": "countries_prefix_"
         },
         {
           "path": "./CSV/en/payments.csv",
@@ -41,7 +42,8 @@
           },
           "exclude_languages": [
             "en"
-          ]
+          ],
+          "key_prefix": "countries_prefix_"
         },
         {
           "path": "./CSV/<language>/<language>_payments.csv",
