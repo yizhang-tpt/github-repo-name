@@ -4,6 +4,13 @@
     "push": {
       "source": [
         {
+          "path": "./JSON/en/common.json",
+          "file_format": "react_simple_json",
+          "tag": "common",
+          "key_prefix": "common_",
+          "language": "en"
+        },
+        {
           "path": "./CSV/en/countries.csv",
           "file_format": "csv",
           "tag": "countries CSV",
@@ -16,6 +23,20 @@
           "key_prefix": "countries_prefix_"
         },
         {
+          "path": "./JSON/en/loading.json",
+          "file_format": "react_simple_json",
+          "tag": "loading",
+          "key_prefix": "loading_",
+          "language": "en"
+        },
+        {
+          "path": "./JSON/en/navigation_testing.json",
+          "file_format": "react_simple_json",
+          "tag": "NavigationTesting",
+          "key_prefix": "navigation_testing_",
+          "language": "en"
+        },
+        {
           "path": "./CSV/en/payments.csv",
           "file_format": "csv",
           "tag": "payments CSV",
@@ -25,13 +46,43 @@
           },
           "excludeHeaderRow": true,
           "language": "en"
+        },
+        {
+          "path": "./JSON/en/profile.json",
+          "file_format": "react_simple_json",
+          "tag": "Profile",
+          "key_prefix": "profile_",
+          "language": "en"
+        },
+        {
+          "path": "./properties/en/selfserve.properties",
+          "file_format": "java_properties",
+          "tag": "Selfserve",
+          "key_prefix": "selfserve_",
+          "language": "en"
+        },
+        {
+          "path": "./properties/en/useraccounts.properties",
+          "file_format": "java_properties",
+          "tag": "Useraccounts",
+          "key_prefix": "useraccounts_",
+          "language": "en"
         }
       ]
     },
     "pull": {
       "target": [
         {
-          "path": "./CSV/<language>/<language>_countries.csv",
+          "path": "./JSON/<language>/<language>.common.json",
+          "file_format": "react_simple_json",
+          "tag": "common",
+          "key_prefix": "common_",
+          "exclude_languages": [
+            "en"
+          ]
+        },
+        {
+          "path": "./CSV/<language>/<language>.countries.csv",
           "file_format": "csv",
           "tag": "countries CSV",
           "excludeHeaderRow": true,
@@ -46,7 +97,25 @@
           "key_prefix": "countries_prefix_"
         },
         {
-          "path": "./CSV/<language>/<language>_payments.csv",
+          "path": "./JSON/en/<language>.loading.json",
+          "file_format": "react_simple_json",
+          "tag": "loading",
+          "key_prefix": "loading_",
+          "exclude_languages": [
+            "en"
+          ]
+        },
+        {
+          "path": "./JSON/<language>/<language>.navigation_testing.json",
+          "file_format": "react_simple_json",
+          "tag": "NavigationTesting",
+          "key_prefix": "navigation_testing_",
+          "exclude_languages": [
+            "en"
+          ]
+        },
+        {
+          "path": "./CSV/<language>/<language>.payments.csv",
           "file_format": "csv",
           "tag": "payments CSV",
           "excludeHeaderRow": true,
@@ -55,6 +124,33 @@
             "KEY": 0,
             "<language>": 1
           },
+          "exclude_languages": [
+            "en"
+          ]
+        },
+        {
+          "path": "./JSON/en/<language>.profile.json",
+          "file_format": "react_simple_json",
+          "tag": "Profile",
+          "key_prefix": "profile_",
+          "exclude_languages": [
+            "en"
+          ]
+        },
+        {
+          "path": "./properties/en/<language>.selfserve.properties",
+          "file_format": "java_properties",
+          "tag": "Selfserve",
+          "key_prefix": "selfserve_",
+          "exclude_languages": [
+            "en"
+          ]
+        },
+        {
+          "path": "./properties/en/<language>.useraccounts.properties",
+          "file_format": "java_properties",
+          "tag": "Useraccounts",
+          "key_prefix": "useraccounts_",
           "exclude_languages": [
             "en"
           ]
