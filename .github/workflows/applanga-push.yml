@@ -4,8 +4,14 @@ on:
     branches:
       - main
     paths:
+      - JSON/en/common.json
       - CSV/en/countries.csv
+      - JSON/en/loading.json
+      - JSON/en/navigation_testing.json
       - CSV/en/payments.csv
+      - JSON/en/profile.json
+      - properties/en/selfserve.properties
+      - properties/en/useraccounts.properties
   workflow_dispatch:
     inputs:
       push_targets:
