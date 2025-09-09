@@ -97,7 +97,7 @@
           "key_prefix": "countries_prefix_"
         },
         {
-          "path": "./JSON/en/<language>.loading.json",
+          "path": "./JSON/<language>/<language>.loading.json",
           "file_format": "react_simple_json",
           "tag": "loading",
           "key_prefix": "loading_",
@@ -129,7 +129,7 @@
           ]
         },
         {
-          "path": "./JSON/en/<language>.profile.json",
+          "path": "./JSON/<language>/<language>.profile.json",
           "file_format": "react_simple_json",
           "tag": "Profile",
           "key_prefix": "profile_",
@@ -138,7 +138,7 @@
           ]
         },
         {
-          "path": "./properties/en/<language>.selfserve.properties",
+          "path": "./properties/<language>/<language>.selfserve.properties",
           "file_format": "java_properties",
           "tag": "Selfserve",
           "key_prefix": "selfserve_",
@@ -147,7 +147,7 @@
           ]
         },
         {
-          "path": "./properties/en/<language>.useraccounts.properties",
+          "path": "./properties/<language>/<language>.useraccounts.properties",
           "file_format": "java_properties",
           "tag": "Useraccounts",
           "key_prefix": "useraccounts_",
