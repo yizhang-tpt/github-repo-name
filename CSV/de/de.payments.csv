@@ -1,0 +1,584 @@
+﻿IN+1, Eingehend - Scheck
+IN+2, Eingehend - Lastschrift A
+IN+3, Eingehend - Banküberweisung
+IN+5, Eingehend - Schließfach *2
+IN+7, Eingehend - Akkreditiv
+IN+9, Eingehend - Bank Giro
+IN+B, Eingehend - SEPA DD - B2B
+IN+C, Ausgehender Scheck In-House Druck
+IN+E, Barzahlung
+IN+F, FINEDI alle Währungen
+IN+I, Eingehend - SEPA DD - CORE
+IN+J, Direktkredit für DD-Kunden
+IN+K, Ausgehendes Lastschriftverfahren
+IN+L, Rush Wires Zahlungsausgang (R
+IN+M, Handbuch für ausgehende Zahlungen
+IN+N, Ausgehende manuelle Zahlung CIBC
+IN+O, Kontrollierte Kreditorenzahlungen
+IN+Q, Bei der Bank gedruckte ausgehende Schecks
+IN+T, Ausgehende Auslandsüberweisung
+IN+U, Ausgehende dringende Zahlung
+IN+X, Ausgehende Inlandsüberweisungen
+IN+Z, Bezahlung in USD
+AE+0, Eingehend - Lastschrift B
+AE+1, Eingehend - Scheck
+AE+2, Eingehend - Lastschrift A
+AE+3, Eingehend - Banküberweisung
+AE+7, Eingehend - Akkreditiv
+AE+9, Eingehend - Bank Giro
+AE+B, Eingehend - SEPA DD - B2B
+AE+E, Ausgehende SEPA-Zahlung
+AE+I, Eingehend - SEPA DD - CORE
+AE+J, Direktkredit für DD-Kunden
+AE+L, Rush Wires Zahlungsausgang (R
+AE+O, Kontrollierte Kreditorenzahlungen
+AE+Q, Bei der Bank gedruckte ausgehende Schecks
+AE+S, GLEICHE BANKABRECHNUNG
+AE+T, Ausgehende Auslandsüberweisung
+AE+X, Ausgehende Inlandsüberweisungen
+AE+Z, Bezahlung in USD
+EG+1, Eingehend - Scheck
+EG+2, Eingehend - Lastschrift A
+EG+3, Eingehend - Banküberweisung
+EG+J, Direktkredit für DD-Kunden
+EG+K, Ausgehendes Lastschriftverfahren
+EG+L, Rush Wires Zahlungsausgang (R
+EG+M, Manuelle Ausgangszahlung
+EG+O, Kontrollierte Kreditorenzahlungen
+EG+Q, Bei der Bank gedruckte ausgehende Schecks
+EG+S, GLEICHE BANKABRECHNUNG
+EG+T, Ausgehende Auslandsüberweisung
+EG+X, Ausgehende Inlandsüberweisungen
+EG+Z, Bezahlung in USD
+GB+0, Eingehend - Lastschrift B
+GB+1, Eingehend - Scheck
+GB+2, Eingehend - Lastschrift A
+GB+3, Eingehend - Banküberweisung
+GB+4, Eingänge - Bargeld
+GB+5, Eingehend - Schließfach *2
+GB+6, Eingehend - Kreditkarte *1
+GB+7, Eingehend - Akkreditiv
+GB+8, Eingehend - Wechsel
+GB+9, Eingehend - Bank Giro
+GB+B, Eingehend - SEPA DD - B2B
+GB+C, Ausgehender Scheck In-House Druck
+GB+E, Ausgehende SEPA-Überweisung
+GB+H, Hausinternes Bargeld
+GB+J, Direktkredit für DD-Kunden
+GB+K, Ausgehendes Lastschriftverfahren
+GB+L, Rush Wires Zahlungsausgang (R
+GB+O, Kontrollierte Kreditorenzahlungen
+GB+Q, Bei der Bank gedruckte ausgehende Schecks
+GB+S, GLEICHE BANKABRECHNUNG
+GB+T, Ausgehende Auslandsüberweisung
+GB+U, Ausgehende dringende Zahlung
+GB+V, International - Clearing
+GB+X, Ausgehende Inlandsüberweisungen
+GB+Z, Bezahlung in USD
+BG+0, Eingehend - Lastschrift B
+BG+1, Eingehend - Scheck
+BG+2, Eingehend - Lastschrift A
+BG+3, Eingehend - Banküberweisung
+BG+4, Eingänge - Bargeld
+BG+5, Eingehend - Schließfach *2
+BG+6, Eingehend - Kreditkarte *1
+BG+7, Eingehend - Akkreditiv
+BG+8, Eingehend - Wechsel
+BG+9, Eingehend - Bank Giro
+BG+C, Ausgehender Scheck In-House Druck
+BG+D, EFT/ACH Kredit CCD+
+BG+F, FBGEDI alle Währungen
+BG+J, Direktkredit für DD-Kunden
+BG+K, Ausgehendes Lastschriftverfahren
+BG+L, Rush Wires Zahlungsausgang (R
+BG+M, Handbuch für ausgehende Zahlungen
+BG+N, Ausgehende manuelle Zahlung CIBC
+BG+O, Kontrollierte Kreditorenzahlungen
+BG+Q, Bei der Bank gedruckte ausgehende Schecks
+BG+R, Eilige Schecks
+BG+T, Ausgehende Auslandsüberweisung
+BG+W, Eingehend - Spl. Mittelübertragung
+BG+X, Ausgehende Inlandsüberweisungen
+BG+Z, Bezahlung in USD
+CZ+0, Eingehend - Lastschrift B
+CZ+1, Eingehend - Scheck
+CZ+2, Eingehend - Lastschrift A
+CZ+3, Eingehend - Banküberweisung
+CZ+4, Eingänge - Bargeld
+CZ+5, Eingehend - Schließfach *2
+CZ+6, Eingehend - Kreditkarte *1
+CZ+7, Eingehend - Akkreditiv
+CZ+8, Eingehend - Wechsel
+CZ+9, Eingehend - Bank Giro
+CZ+C, Ausgehender Scheck In-House Druck
+CZ+D, EFT/ACH Kredit CCD+
+CZ+F, FCZEDI alle Währungen
+CZ+J, Direktkredit für DD-Kunden
+CZ+K, Ausgehendes Lastschriftverfahren
+CZ+L, Rush Wires Zahlungsausgang (R
+CZ+M, Handbuch für ausgehende Zahlungen
+CZ+N, Ausgehende manuelle Zahlung CIBC
+CZ+O, Kontrollierte Kreditorenzahlungen
+CZ+Q, Bei der Bank gedruckte ausgehende Schecks
+CZ+R, Eilige Schecks
+CZ+T, Ausgehende Auslandsüberweisung
+CZ+W, Eingehend - Spl. Mittelübertragung
+CZ+X, Ausgehende Inlandsüberweisungen
+CZ+Z, Bezahlung in USD
+DE+0, Eingehend - Lastschrift B
+DE+1, Eingehend - Scheck
+DE+2, Eingehend - Lastschrift A
+DE+3, Eingehend - Banküberweisung
+DE+4, Eingänge - Bargeld
+DE+5, Eingehend - Schließfach *2
+DE+7, Eingehend - Akkreditiv
+DE+8, Eingehend - Wechsel
+DE+9, Eingehend - Bank Giro
+DE+B, Eingehend - SEPA DD - B2B
+DE+C, Ausgehender Scheck In-House Druck
+DE+H, Hausinternes Bargeld
+DE+I, Eingehend - SEPA DD - CORE
+DE+J, Direktkredit für DD-Kunden
+DE+K, Ausgehendes Lastschriftverfahren
+DE+L, Rush Wires Zahlungsausgang (R
+DE+O, Kontrollierte Kreditorenzahlungen
+DE+Q, Bei der Bank gedruckte ausgehende Schecks
+DE+T, Ausgehende Auslandsüberweisung
+DE+U, Ausgehende dringende Zahlung
+DE+X, Ausgehende Inlandsüberweisungen
+DE+Z, Bezahlung in USD
+US+0, Eingehend - Lastschrift B
+US+1, Eingehend - Scheck
+US+2, Eingehend - Lastschrift A
+US+3, Eingehend - Banküberweisung
+US+4, Eingänge - Bargeld
+US+5, Eingehend - Schließfach *2
+US+6, Eingehend - Kreditkarte *1
+US+7, Eingehend - Akkreditiv
+US+8, Eingehend - Wechsel
+US+9, Eingehend - Bank Giro
+US+B, Eingehend - SEPA DD - B2B
+US+C, Ausgehender Scheck In-House Druck
+US+J, Direktkredit für DD-Kunden
+US+K, Ausgehendes Lastschriftverfahren
+US+O, Kontrollierte Kreditorenzahlungen
+US+P, ACH Kredit PPD
+US+Q, Bei der Bank gedruckte ausgehende Schecks
+US+T, Ausgehende Auslandsüberweisung
+US+U, Ausgehende dringende Zahlung
+US+X, Ausgehende Inlandsüberweisungen
+US+Z, Bezahlung in USD
+SA+0, Eingehend - Lastschrift B
+SA+1, Eingehend - Scheck
+SA+2, Eingehend - Lastschrift A
+SA+3, Eingehend - Banküberweisung
+SA+4, Eingänge - Bargeld
+SA+9, Eingehend - Bank Giro
+SA+B, Eingehend - SEPA DD - B2B
+SA+I, Eingehend - SEPA DD - CORE
+SA+Z, Bezahlung in USD
+SG+0, Eingehend - Lastschrift B
+SG+1, Eingehend - Scheck
+SG+2, Eingehend - Lastschrift A
+SG+3, Eingehend - Banküberweisung
+SG+4, Eingänge - Bargeld
+SG+5, Eingehend - Schließfach *2
+SG+6, Eingehend - Kreditkarte *1
+SG+7, Eingehend - Akkreditiv
+SG+8, Eingehend - Wechsel
+SG+9, Eingehend - Bank Giro
+SG+B, Eingehend - SEPA DD - B2B
+SG+E, Ausgehende SEPA-Überweisung
+SG+I, Eingehend - SEPA DD - CORE
+SG+J, Direktkredit für DD-Kunden
+SG+K, Ausgehendes Lastschriftverfahren
+SG+L, Rush Wires Zahlungsausgang (R
+SG+M, Handbuch für ausgehende Zahlungen
+SG+O, Kontrollierte Kreditorenzahlungen
+SG+Q, Bei der Bank gedruckte ausgehende Schecks
+SG+S, Sonderbehandlung von Auslandszahlungen
+SG+T, Ausgehende Auslandsüberweisung
+SG+U, Ausgehende dringende Zahlung
+SG+V, International - Clearing
+SG+X, Ausgehende Inlandsüberweisungen
+SG+Z, Zahlung in SGD
+BE+0, Eingehend - Lastschrift B
+BE+1, Chèque
+BE+2, Domizilierung
+BE+3, Eingehend - Banküberweisung
+BE+4, Bargeld
+BE+5, Schließfach
+BE+6, Eingehend - Kreditkarte *1
+BE+7, Eingehend - Akkreditiv
+BE+8, Eingehend - Wechsel
+BE+9, Eingehend - Bank Giro
+BE+B, Domizilierung (B2B)
+BE+D, Kundenabholung - Domicil.
+BE+E, Ausgehende SEPA-Überweisung
+BE+F, Ausländische Banküberweisungen
+BE+I, Eingehend - Bank Giro
+BE+J, Direktkredit für DD-Kunden
+BE+K, Ausgehendes Lastschriftverfahren
+BE+O, Kontrollierte Kreditorenzahlungen
+BE+T, Ausgehende Auslandsüberweisung
+BE+U, Ausgehende dringende Zahlung
+BE+X, Ausgehende Inlandsüberweisung
+BE+Z, Bezahlung in USD
+PH+0, Eingehend - Lastschrift B
+PH+1, Eingehend - Scheck
+PH+2, Eingehend - Lastschrift A
+PH+3, Eingehend - Banküberweisung
+PH+4, Eingänge - Bargeld
+PH+5, Eingehend - Schließfach *2
+PH+6, Eingehend - Kreditkarte *1
+PH+7, Eingehend - Akkreditiv
+PH+8, Eingehend - Wechsel
+PH+9, Eingehend - Bank Giro
+PH+B, Eingehend - SEPA DD - B2B
+PH+C, Ausgehender Scheck In-House Druck
+PH+I, Eingehend - SEPA DD - CORE
+PH+J, Direktkredit für DD-Kunden
+PH+K, Ausgehendes Lastschriftverfahren
+PH+L, Rush Wires Zahlungsausgang (R
+PH+O, Kontrollierte Kreditorenzahlungen
+PH+Q, Bei der Bank gedruckte ausgehende Schecks
+PH+S, Sonderbehandlung von Auslandszahlungen
+PH+T, Ausgehende Auslandsüberweisung
+PH+U, Ausgehende dringende Zahlung
+PH+W, Eingehend - Spl. Mittelübertragung
+PH+X, Ausgehende Inlandsüberweisungen
+PH+Z, Bezahlung in USD
+ES+0, Eingehend - Lastschrift B
+ES+1, Eingehend - Scheck
+ES+2, Eingehend - Lastschrift A
+ES+3, Eingehend - Banküberweisung
+ES+8, Eingehend - Wechsel
+ES+9, Eingehend - Bank Giro
+ES+B, Eingehend - SEPA DD - B2B
+ES+C, Ausgehender Scheck In-House Druck
+ES+D, ACH Kredit CCD+
+ES+E, Ausgehende SEPA-Überweisung
+ES+H, Hausinternes Bargeld
+ES+I, Eingehend - SEPA DD - CORE
+ES+J, Direktkredit für DD-Kunden
+ES+K, Ausgehendes Lastschriftverfahren
+ES+L, Rush Wires Zahlungsausgang (R
+ES+M, Handbuch für ausgehende Zahlungen
+ES+N, Manuelle Steuerzahlungen - über SCB
+ES+O, Kontrollierte Kreditorenzahlungen
+ES+Q, Bei der Bank gedruckte ausgehende Schecks
+ES+P, ACH Kredit PPD
+ES+T, Ausgehende Auslandsüberweisung
+ES+U, Ausgehende dringende Zahlung
+ES+X, Ausgehende Inlandsüberweisungen
+ES+Z, Zahlung in ESD
+LU+1, Eingehend - Scheck
+LU+2, Eingehend - Lastschrift A
+LU+3, Eingehend - Banküberweisung
+LU+4, Eingänge - Bargeld
+LU+5, Eingehend - Schließfach *2
+LU+6, Eingehend - Kreditkarte *1
+LU+7, Eingehend - Akkreditiv
+LU+8, Eingehend - Wechsel
+LU+9, Eingehend - Bank Giro
+LU+B, Eingehend - SEPA DD - B2B
+LU+C, Ausgehender Scheck In-House Druck
+LU+D, Lastschrifteinzug
+LU+E, Ausgehende SEPA-Überweisung
+LU+I, Eingehend - SEPA DD - CORE
+LU+J, Direktkredit für DD-Kunden
+LU+K, Ausgehendes Lastschriftverfahren
+LU+O, Kontrollierte Kreditorenzahlungen
+LU+Q, Bei der Bank gedruckte ausgehende Schecks
+LU+T, Ausgehende Auslandsüberweisung
+LU+U, Ausgehende dringende Zahlung
+LU+X, Ausgehende Inlandsüberweisungen
+LU+Z, Bezahlung in USD
+CA+0, Eingehend - Lastschrift B
+CA+1, Eingehend - Scheck
+CA+2, Eingehend - Lastschrift A
+CA+3, Eingehend - Banküberweisung
+CA+4, Eingänge - Bargeld
+CA+5, Eingehend - Schließfach *2
+CA+6, Eingehend - Kreditkarte *1
+CA+7, Eingehend - Akkreditiv
+CA+8, Eingehend - Wechsel
+CA+9, Eingehend - Bank Giro
+CA+C, Ausgehender Scheck In-House Druck
+CA+D, EFT/ACH Kredit CCD+
+CA+F, FINEDI alle Währungen
+CA+J, Direktkredit für DD-Kunden
+CA+K, Ausgehendes Lastschriftverfahren
+CA+L, Rush Wires Zahlungsausgang (R
+CA+M, Handbuch für ausgehende Zahlungen
+CA+N, Ausgehende manuelle Zahlung CIBC
+CA+O, Kontrollierte Kreditorenzahlungen
+CA+Q, Bei der Bank gedruckte ausgehende Schecks
+CA+R, Eilige Schecks
+CA+T, Ausgehende Auslandsüberweisung
+CA+W, Eingehend - Spl. Mittelübertragung
+CA+X, Ausgehende Inlandsüberweisungen
+CA+Z, Bezahlung in USD
+FR+0, Eingehend - Lastschrift B
+FR+1, Eingehend - Scheck
+FR+2, Eingehend - Lastschrift A
+FR+3, Eingehend - Banküberweisung
+FR+4, Eingänge - Bargeld
+FR+5, Eingehend - Schließfach *2
+FR+6, Eingehend - Kreditkarte *1
+FR+7, Eingehend - Akkreditiv
+FR+8, Eingehend - Wechsel
+FR+9, Eingehend - Bank Giro
+FR+B, Eingehend - SEPA DD - B2B
+FR+C, Ausgehender Scheck In-House Druck
+FR+E, Ausgehende SEPA-Überweisung
+FR+I, Eingehend - SEPA DD - CORE
+FR+J, Direktkredit für DD-Kunden
+FR+K, Ausgehendes Lastschriftverfahren
+FR+L, Rush Wires Zahlungsausgang (R
+FR+M, Handbuch für ausgehende Zahlungen
+FR+O, Kontrollierte Kreditorenzahlungen
+FR+Q, Bei der Bank gedruckte ausgehende Schecks
+FR+T, Ausgehende Auslandsüberweisung
+FR+U, Ausgehende dringende Zahlung
+FR+V,International - Clearing
+FR+X, Ausgehende Inlandsüberweisungen
+FR+Z, Zahlung im FRD
+ID+1, Eingehend - Scheck
+ID+2, Eingehend - Lastschrift A
+ID+3, Eingehend - Banküberweisung
+ID+4, Eingänge - Bargeld
+ID+5, Eingehend - Schließfach *2
+ID+6, Eingehend - Kreditkarte *1
+ID+7, Eingehend - Akkreditiv
+ID+8, Eingehend - Wechsel
+ID+9, Eingehend - Bank Giro
+ID+B, Eingehend - SEPA DD - B2B
+ID+C, Ausgehender Scheck In-House Druck
+ID+E, Ausgehende SEPA-Überweisung
+ID+I, Eingehend - SEPA DD - CORE
+ID+J, Direktkredit für DD-Kunden
+ID+K, Ausgehendes Lastschriftverfahren
+ID+L, Rush Wires Zahlungsausgang (R
+ID+O, Kontrollierte Kreditorenzahlungen
+ID+Q, Bei der Bank gedruckte ausgehende Schecks
+ID+S, GLEICHE BANKABRECHNUNG
+ID+T, Ausgehende Auslandsüberweisung
+ID+U, Ausgehende dringende Zahlung
+ID+X, Ausgehende Inlandsüberweisungen
+ID+Z, Zahlung in IDD
+IT+0, Eingehend - Lastschrift B
+IT+1, Eingehend - Scheck
+IT+2, Eingehend - Lastschrift A
+IT+3, Eingehend - Banküberweisung
+IT+4, Eingänge - Bargeld
+IT+5, Eingehend - Schließfach *2
+IT+6, Eingehend - Kreditkarte *1
+IT+7, Eingehend - Akkreditiv
+IT+8, Eingehend - Wechsel
+IT+9, Eingehend - Bank Giro
+IT+B, Eingehend - SEPA DD - B2B
+IT+E, Ausgehende SEPA-Überweisung
+IT+G, Giro
+IT+I, Eingehend - SEPA DD - CORE
+IT+J, Direktkredit für DD-Kunden
+IT+K, Ausgehendes Lastschriftverfahren
+IT+L, Rush Wires Zahlungsausgang (R
+IT+M, Handbuch für ausgehende Zahlungen
+IT+N, Ausgehende manuelle Zahlung CIBC
+IT+O, Kontrollierte Kreditorenzahlungen
+IT+T, Ausgehende Auslandsüberweisung
+IT+U, Ausgehende dringende Zahlung
+IT+W, IT Outgng Domest Bnk Transfer
+IT+X, Ausgehende Inlandsüberweisungen
+IT+Z, Zahlung in ITD
+MY+0, Eingehend - Lastschrift B
+MY+1, Eingehend - Scheck
+MY+2, Eingehend - Lastschrift A
+MY+3, Eingehend - Banküberweisung
+MY+4, Eingänge - Bargeld
+MY+5, Eingehend - Schließfach *2
+MY+6, Eingehend - Kreditkarte *1
+MY+7, Eingehend - Akkreditiv
+MY+8, Eingehend - Wechsel
+MY+9, Eingehend - Bank Giro
+MY+B, Eingehend - SEPA DD - B2B
+MY+C, Ausgehender Scheck In-House Druck
+MY+I, Eingehend - SEPA DD - CORE
+MY+J, Direktkredit für DD-Kunden
+MY+K, Ausgehendes Lastschriftverfahren
+MY+L, Rush Wires Zahlungsausgang (R
+MY+M, Handbuch für ausgehende Zahlungen
+MY+N, Ausgehende manuelle Zahlung CIBC
+MY+O, Kontrollierte Kreditorenzahlungen
+MY+Q, Bei der Bank gedruckte ausgehende Schecks
+MY+S, Sonderbehandlung von Auslandszahlungen
+MY+T, Ausgehende Auslandsüberweisung
+MY+U, Ausgehende dringende Zahlung
+MY+W, Eingehend - Spl. Mittelübertragung
+MY+X, Ausgehende Inlandsüberweisungen
+NL+0, Eingehend - Lastschrift B
+NL+1, Eingehend - Scheck
+NL+2, Eingehend - Lastschrift A
+NL+3, Eingehend - Banküberweisung
+NL+4, Eingänge - Bargeld
+NL+5, Eingehend - Schließfach *2
+NL+6, Eingehend - Kreditkarte *1
+NL+7, Eingehend - Akkreditiv
+NL+8, Eingehend - Wechsel
+NL+9, Eingehend - Bank Giro
+NL+A, Siehe
+NL+B, Eingehend - SEPA DD - B2B
+NL+E, Ausgehende SEPA-Überweisung
+NL+I, Eingehend - SEPA DD - CORE
+NL+J, Direktkredit für DD-Kunden
+NL+K, Ausgehendes Lastschriftverfahren
+NL+L, Rush Wires Zahlungsausgang (R
+NL+M, Handbuch für ausgehende Zahlungen
+NL+O, Kontrollierte Kreditorenzahlungen
+NL+P, Manuelle Zahlungen
+NL+Q, Bei der Bank gedruckte ausgehende Schecks
+NL+S, Sonderbehandlung von Auslandszahlungen
+NL+T, Ausgehende Auslandsüberweisung
+NL+U, Ausgehende dringende Zahlung
+NL+V, International - Clearing
+NL+W, Eingehend - Spl. Mittelübertragung
+NL+X, Ausgehende Inlandsüberweisungen
+NL+Z, BEZAHLUNG IN USD 
+PL+2, Eingehend - Lastschrift A
+PL+3, Eingehend - Banküberweisung
+PL+B, Eingehend - SEPA DD - B2B
+PL+E, Ausgehende SEPA-Überweisung
+PL+I, Eingehend - SEPA DD - CORE
+PL+J, Direktkredit für DD-Kunden
+PL+K, Ausgehendes Lastschriftverfahren
+PL+L, Rush Wires Zahlungsausgang (R
+PL+M, Handbuch für ausgehende Zahlungen
+PL+O, Kontrollierte Kreditorenzahlungen
+PL+P, ACH Kredit PPD
+PL+T, Ausgehende Auslandsüberweisung
+PL+X, Ausgehende Inlandsüberweisungen
+PL+Z, Zahlung in PLD
+RU+0, Eingehend - Lastschrift B
+RU+1, Eingehend - Scheck
+RU+2, Eingehend - Lastschrift A
+RU+3, Eingehend - Banküberweisung
+RU+4, Eingänge - Bargeld
+RU+7, Eingehend - Akkreditiv
+RU+8, Eingehend - Wechsel
+RU+9, Eingehend - Bank Giro
+TH+A, ASR-Verfahren
+RU+B, Eingehend - SEPA DD - B2B
+RU+I, Eingehend - SEPA DD - CORE
+RU+J, Direktkredit für DD-Kunden
+RU+K, Ausgehendes Lastschriftverfahren
+RU+L, Rush Wires Zahlungsausgang (R
+RU+M, Handbuch für ausgehende Zahlungen
+RU+O, Kontrollierte Kreditorenzahlungen
+RU+T, Ausgehende Auslandsüberweisung
+RU+X, Ausgehende Inlandsüberweisungen
+RU+Z, Bezahlung in USD
+TH+0, Eingehend - DirDeb PostFinance
+TH+1, Eingehend - Scheck
+TH+2, Eingehend - Lastschriftverfahren
+TH+3, Eingehend - Banküberweisung
+TH+4, Eingänge - Bargeld
+TH+5, Eingehend - Lockbox
+TH+6, Eingehend - Kreditkarte *1
+TH+7, Eingehend - Akkreditiv
+TH+8, Eingehend - Wechsel
+TH+9, Eingehend - GIRO
+TH+B, Eingehend - SEPA DD - B2B
+TH+C, Scheck nur für A/C-Zahlungsempfänger
+TH+E, DTA ESR-Verfahren (Bank)
+TH+F, Lastschriftverfahren Postfinance (DD)
+TH+G, GIRO-Zahlungen
+TH+H, EZAG ESR-Verfahren (Postfin.)
+TH+I, Eingehend - Lastschriftverfahren CORE
+TH+J, Direktkredit für DD-Kunden
+TH+L, Neue GIRO-Zahlungen-QR-IBAN
+TH+O, Kontrollierte Kreditorenzahlungen
+TH+Q, Bei der Bank gedruckte ausgehende Schecks
+TH+R, Chemische Zahlung
+TH+S, Dieselbe Bank -SCB Book Transfer
+TH+T, Ausgehende Auslandsüberweisung
+TH+U, Ausgehende dringende Zahlung
+TH+X, AusgehendeInlandsüberweisung
+TH+Z, Bezahlung in USD
+TR+0, Eingehend - Lastschrift B
+TR+1, Eingehend - Scheck
+TR+2, Eingehend - Lastschrift A
+TR+3, Eingehend - Banküberweisung
+TR+4, Eingänge - Bargeld
+TR+5, Eingehend - Schließfach *2
+TR+7, Eingehend - Akkreditiv
+TR+8, Eingehend - Wechsel
+TR+9, Eingehend - Bank Giro
+TR+B, Eingehend - SEPA DD - B2B
+TR+C, Ausgehender Scheck In-House Druck
+TR+H, Hausinternes Bargeld
+TR+I, Eingehend - SEPA DD - CORE
+TR+J, Direktkredit für DD-Kunden
+TR+K, Ausgehendes Lastschriftverfahren
+TR+L, Rush Wires Zahlungsausgang (R
+TR+O, Kontrollierte Kreditorenzahlungen
+TR+Q, Bei der Bank gedruckte ausgehende Schecks
+TR+T, Ausgehende Auslandsüberweisung
+TR+U, Ausgehende dringende Zahlung
+TR+X, Ausgehende Inlandsüberweisungen
+TR+Z, Bezahlung in USD
+PK+0, Eingehend - Lastschrift B
+PK+1, Eingehend - Scheck
+PK+2, Eingehend - Lastschrift A
+PK+3, Eingehend - Banküberweisung
+PK+4, Eingänge - Bargeld
+PK+5, Eingehend - Schließfach *2
+PK+6, Eingehend - Kreditkarte *1
+PK+7, Eingehend - Akkreditiv
+PK+8, Eingehend - Wechsel
+PK+9, Eingehend - Bank Giro
+PK+B, Eingehend - SEPA DD - B2B
+PK+C, Ausgehender Scheck In-House Druck
+PK+F, FPKEDI alle Währungen
+PK+I, Eingehend - SEPA DD - CORE
+PK+J, Direktkredit für DD-Kunden
+PK+L, Rush Wires Zahlungsausgang (R
+PK+M, Handbuch für ausgehende Zahlungen
+PK+N, Ausgehende manuelle Zahlung CIBC
+PK+O, Kontrollierte Kreditorenzahlungen
+PK+P, ACH Kredit PPD
+PK+Q, Bei der Bank gedruckte ausgehende Schecks
+PK+S, Dieselbe Bank -SCB Book Transfer
+PK+T, Ausgehende Auslandsüberweisung
+PK+U, Ausgehende dringende Zahlung
+PK+X, Ausgehende Inlandsüberweisungen
+CH+0, Eingehend - DirDeb PostFinance
+CH+1, Eingehend - Scheck
+CH+2, Eingehend - Lastschriftverfahren
+CH+3, Eingehend - Banküberweisung
+CH+4, Eingänge - Bargeld
+CH+5, Eingehend - Lockbox
+CH+6, Eingehend - Kreditkarte *1
+CH+7, Eingehend - Akkreditiv
+CH+8, Eingehend - Wechsel
+CH+9, Eingehend - GIRO
+CH+A, Siehe
+CH+B, Eingehend - SEPA DD - B2B
+CH+D, Lastschriftverfahren Postfinance (BAD)
+CH+E, DTA ESR-Verfahren (Bank)
+CH+F, Lastschriftverfahren Postfinance (DD)
+CH+G, GIRO-Zahlungen
+CH+H, EZAG ESR-Verfahren (Postfin.)
+CH+I, Eingehend - Lastschriftverfahren CORE
+CH+J, Direktkredit für DD-Kunden
+CH+K, Ausgehendes Lastschriftverfahren
+CH+L, Neue GIRO-Zahlungen-QR-IBAN
+CH+M, DTA Bank und PC-Konto
+CH+O, Kontrollierte Kreditorenzahlungen
+CH+P, Manuelle Zahlungen
+CH+S, Dieselbe Bank -SCB Book Transfer
+CH+T, Ausgehende Auslandsüberweisung
+CH+U, Ausgehende dringende Zahlung
+CH+V, Verrechnung (im Konzern)
+CH+X, AusgehendeInlandsüberweisung
+CH+Z, Bezahlung in USD
